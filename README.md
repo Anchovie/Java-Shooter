@@ -1,4 +1,4 @@
-Java
+Java Space Shooter
 ====
 
 A two player shooting game made for fun and learning. Intended to be run from computer, see screenshot scr.png.
