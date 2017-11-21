@@ -3,7 +3,7 @@ Java Space Shooter
 
 A two player shooting game made for fun and learning. Intended to be run from computer, see screenshot scr.png.
 This game (as many others) is not complete, so many features are not complete, or not implemented at all. 
-Made about 3 years ago.
+Made in 2011.
 
 
 Player 1 controls: 
